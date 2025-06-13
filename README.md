@@ -12,15 +12,15 @@ A Streamlit app for customer segmentation using SQL queries on the Online Retail
 
 ## 📁 Project Structure
 
-customer_segmentation/
+customer_segmentation\
 ├── app.py # Main Streamlit UI\
 ├── customers.db # SQLite3 database\
 ├── load_data.py # One-time data cleaning and DB insertion\
 ├── OnlineRetail.csv # CSV file being processed\
-├── README.md\ 
+├── README.md\
 ├── requirements.txt\
 ├── run_query.py # SQL query execution and logic\
-└── test.ipynb # EDA notebook\ 
+└── test.ipynb # EDA notebook
 
 
 ## 🔧 Setup Instructions
