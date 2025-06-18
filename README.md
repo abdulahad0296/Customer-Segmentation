@@ -3,8 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.35.0-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Last Commit](https://img.shields.io/github/last-commit/abdulahad0296/customer_segmentation)
-![GitHub stars](https://img.shields.io/github/stars/abdulahad0296/customer_segmentation?style=social)
+
 
 ## 📋 Overview
 
